@@ -1,0 +1,15 @@
+.venv/
+.direnv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+
+# Upstream checkouts downloaded by the development shell.
+nori-sdk-py/
+nori_description/
+*.tmp/
+.head/
+result
+result-*
